@@ -29,13 +29,15 @@ Two users account that were created by the agent was used to test run if indeed 
 ![Triaging Process 1](https://github.com/Kolapo72/ticket_lifecycle/assets/147263584/57e64229-c160-46fe-954e-b01be403d3f9)
 
 ![Assigned Jane Confirmed](https://github.com/Kolapo72/ticket_lifecycle/assets/147263584/d8cc45e0-7ad3-4c5f-86d9-759b803792f4)
-<p>Ticket was assigned to Jane based on the issue and department to sort it.</p>
+<p>The powerful ticket filtering system makes sure the right tickets goes to the right department leaving you with a clutter-free environment. 
+ Ticket was assigned to Jane based on the issue and department to sort it.</p>
 
 ![Ticket solved](https://github.com/Kolapo72/ticket_lifecycle/assets/147263584/584c7577-2dd0-4406-b082-4524cd270721)
 <p>When ticket is solved, it won't appear again in the open tickets.</p>
 
 ![Ticket closed](https://github.com/Kolapo72/ticket_lifecycle/assets/147263584/126e4c06-68d8-4fbf-930c-47a52af99fff)
 <p>It appears in the closed tickets and reflect the agent who get it done.</p>
+<p>Finally, this kind of customer support portal system help businesses to maintain happy customer relationships.</p>
 
 
 
