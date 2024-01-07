@@ -1,6 +1,6 @@
 # ticket_lifecycle
-
-The major thing done here is Creating, Triaging, and Solving Tickets.
+ 
+<p>Note that, a successful solution goes beyond great software; it includes correct implementation with reliable and effective on-going maintenance and support. The major thing done here is Creating, Triaging, and Solving Tickets.</p>
 
 <h3>Creating Tickets</h3>
 Two users account that were created by the agent was used to test run if indeed it is working with the details used.
